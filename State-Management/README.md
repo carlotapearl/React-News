@@ -9,4 +9,4 @@ Comment by Gavin Thomas from Great State: "If you want those reducers to be more
 
 5/17/2022 [Episode 11- State Machines in the Front-End with David Khourshid](https://podcast.20minjs.com/1952066/10624904-episode-11-state-machines-in-the-front-end-with-david-khourshid)
 
-5/16/2022 - React state management libraries in 2022 (https://www.albertgao.xyz/2022/02/19/react-state-management-libraries-2022/)
+5/16/2022 - [React state management libraries in 2022](https://www.albertgao.xyz/2022/02/19/react-state-management-libraries-2022/)
